@@ -1,0 +1,87 @@
+.job__list__wrapper {
+    padding: 30px;
+    margin-top: -50px;
+    background: #fff;
+    border-radius: 10px;
+}
+.search__panel {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search__panel-01, 
+.search__panel-02 {
+    display: flex;
+    align-items: center;
+    column-gap: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    outline: none;
+}
+.search__panel-01 {
+    padding: 15px 25px;
+    width: 330px;
+}
+
+.search__panel-02 {
+    padding: 10px 25px;
+}
+.search__panel-03 select {
+    padding: 15px 25px;
+    border: 1px solid #ddd;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.search__panel-01 input, 
+.search__panel-02 input {
+    border:none;
+    outline: none;
+    color: #000;
+    font-size: 0.9rem;
+}
+.search__panel-01 span i, 
+.search__panel-02 span i {
+    color: #7c5dfa;
+}
+.jobs__wrapper{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.job__item{
+    width:350px;
+    margin-bottom: 50px;
+}
+.job__item img{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+}
+.job__content h6{
+    font-size: .9rem;
+    font-weight: 400;
+    color: #777;
+    margin-bottom: 10px;
+}
+.job__content h1{
+    margin-bottom: 10px;
+}
+.job__content h1 a{
+    text-decoration: none;
+    color:#000;
+}
+.location p{
+    margin-top: 30px;
+}
+.location p span{
+    color:#7c5dfa;
+}
+  
+.search__panel-01 input,
+.search__panel-02 input,
+.search__panel-03 select {
+  font-size: 0.7rem;
+}
