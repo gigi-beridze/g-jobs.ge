@@ -1,8 +1,8 @@
 ```
-Frontend Mentor Easybank landing page challange
+Frontend Mentor Devjobs challange
 ```
 View Demo👇: <br />
-https://teal-nougat-e68ce7.netlify.app/ <br />
+https://amazing-taffy-1273f9.netlify.app/<br />
 View my Linkedin👇: <br />
 https://www.linkedin.com/in/gigi-beridze-367126214/ <br />
 
